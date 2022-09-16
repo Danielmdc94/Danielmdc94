@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielmdc94&show_icons=true&theme=react" height="150px"/>
 </div>
 
-<h2>Current stack</h2>
+
+<h2>Current stack 📚</h2>
 <div>
   &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40px" width="40px" />
@@ -34,12 +35,13 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40px" width="40px" />
 </div>
 
-<h3>Contact me! ✉️</h3>
+
+<h3>Contact me! 📫</h3>
 <div>
-  &emsp;<a href="https://www.linkedin.com/in/daniel-palacio-gonz%C3%A1lez-25a918188/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
-  </a>
-  <a href="mailto:acastanome@gmail.com">
+  &emsp;<a href="mailto:danielmdc94@gmail.com">
     <img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-palacio-gonz%C3%A1lez-25a918188/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
 </div>
