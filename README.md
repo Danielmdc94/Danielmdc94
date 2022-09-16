@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <div>
   &emsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40px" width="40px" />
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 <div>
   &emsp;<a href="mailto:danielmdc94@gmail.com">
     <img height="40px" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-  </a>
+  </a>   
   <a href="https://www.linkedin.com/in/daniel-palacio-gonz%C3%A1lez-25a918188/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height ="40px" width="40px"/>
   </a>
