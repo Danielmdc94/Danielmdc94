@@ -1,8 +1,4 @@
-### Hi there 👋
-
 <!--
-**Danielmdc94/Danielmdc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1>Hello there! 👋</h1>
+
+<p>&emsp;My name is Daniel, and I'm a Software Engineering student at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
+
+<h2>About me:</h2>
+
+<p/>• Currently working on <a href="https://github.com/Danielmdc94/42Hive-Wolf3d">Wolf3d</a>, a project that tries to emulate the 1992 Wolfenstein 3D ray casting technique in C. I'm using SDL2 for window, graphic, and event management and math.h for operations, but otherwise all functions used are original, included pixel drawing</p>
