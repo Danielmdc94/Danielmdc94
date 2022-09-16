@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 
 <h1>Hello there! 👋</h1>
 
-<p>&emsp;My name is Daniel, and I'm a Software Engineering student at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
+<p>&emsp;My name is Daniel, and I'm a full-time Software Engineering student at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
 
-<h2>About me:</h2>
+<h2>Overview 👀</h2>
 
-<p/>• Currently working on <a href="https://github.com/Danielmdc94/42Hive-Wolf3d">Wolf3d</a>, a project that tries to emulate the 1992 Wolfenstein 3D ray casting technique in C. I'm using SDL2 for window, graphic, and event management and math.h for operations, but otherwise all functions used are original, included pixel drawing</p>
+<p/>&emsp;• 👨🏻‍💻 Currently working on <a href="https://github.com/Danielmdc94/42Hive-Wolf3d">Wolf3d</a>, a project that tries to emulate the 1992 Wolfenstein 3D ray casting technique in C. I'm using SDL2 for window, graphic, and event management and math.h for operations, but otherwise all functions used are original, included pixel drawing</p>
+
+<p/>&emsp;• Under construction!! 🚧👷
