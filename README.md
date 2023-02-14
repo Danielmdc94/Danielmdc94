@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <h1>Hello there! 👋</h1>
 <p>&emsp;• My name is Daniel, and I'm a full-time Software Engineering student at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
 <p>&emsp;• Spaniard 🇪🇸 living in Finland 🇫🇮 and fluent in English 🇬🇧 and French 🇫🇷 </p>
-<p>&emsp;• As a portfolio, check out my projects pinned bellow! 📌📌📌 </p>
+<p>&emsp;• For my portfolio, check out the projects pinned bellow! 📌📌📌 </p>
 
 <h2>Overview 👀</h2>
 <p>&emsp;• 👨🏻‍💻 Currently working on <a href="https://github.com/samuaaltonen/doom-nukem">Doom-Nukem</a>, a group project that consist on writing a game engine, a map editor and a full game using these, in the fashion of the original Doom or Duke Nukem 3D games. Our approach is more focused on Duke Nukem techniques and the Build engine. We are using SDL2 for window, graphic, sound and event management, but otherwise all functions used are original, included pixel drawing, blitting images, text to screen... All assets are also original, made either by hand or by AI (Excluding some current assets we are using for testing purposes). This project is still private, but by all means, ask me to showcase it 😉</p>
