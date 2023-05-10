@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 <p>&emsp;• For my portfolio, check out the projects pinned bellow! 📌📌📌 </p>
 
 <h2>Overview 👀</h2>
-<p>&emsp;• 👨🏻‍💻 Currently working on <a href="https://github.com/samuaaltonen/doom-nukem">Doom-Nukem</a>, a group project that consist on writing a game engine, a map editor and a full game using these, in the fashion of the original Doom or Duke Nukem 3D games. Our approach is more focused on Duke Nukem techniques and the Build engine. We are using SDL2 for window, graphic, sound and event management, but otherwise all functions used are original, included pixel drawing, blitting images, text to screen... All assets are also original, made either by hand or by AI (Excluding some current assets we are using for testing purposes).</p>
+<p>&emsp;• 👨🏻‍💻 Currently learning to develop with Unreal Engine (Which explains the gap in github contributions)
+  
+<p>&emsp;• <a href="https://github.com/samuaaltonen/doom-nukem">Doom-Nukem</a>, a group project that consist on writing a game engine, a map editor and a full game using these, in the fashion of the original Doom or Duke Nukem 3D games. Our approach is more focused on Duke Nukem techniques and the Build engine. We are using SDL2 for window, graphic, sound and event management, but otherwise all functions used are original, included pixel drawing, blitting images, text to screen... All assets are also original, made either by hand or by AI (Excluding some current assets we are using for testing purposes).</p>
 <p>&emsp;• 💻 Most of my public projects are in C due to the school requirements, although I have some game-jam and personal projects written in C# and C++</p>
 
 <div>
