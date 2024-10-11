@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hello there! 👋</h1>
-<p>&emsp;• My name is Daniel, and I'm a Junior Software Developer at AILiveSim 🤖 </p>
+<p>&emsp;• My name is Daniel, and I'm a Junior Software Developer at <a href="https://www.ailivesim.com/">AILiveSim</a> 🤖 </p>
 <p>&emsp;• Software Engineering graduate from <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
 <p>&emsp;• Spaniard living in Finland and fluent in English and French </p>
 <p>&emsp;• For my portfolio, check out the projects pinned bellow! 📌📌📌 </p>
