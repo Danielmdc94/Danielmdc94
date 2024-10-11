@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 <h1>Hello there! 👋</h1>
 <p>&emsp;• My name is Daniel, and I'm a Junior Software Developer at AILiveSim 🤖 </p>
-<p>&emsp;• Software Engineering student at <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
-<p>&emsp;• Spaniard 🇪🇸 living in Finland 🇫🇮 and fluent in English 🇬🇧 and French 🇫🇷 </p>
+<p>&emsp;• Software Engineering graduate from <a href="https://www.hive.fi/">Hive Helsinki</a> :honeybee:</p>
+<p>&emsp;• Spaniard living in Finland and fluent in English and French </p>
 <p>&emsp;• For my portfolio, check out the projects pinned bellow! 📌📌📌 </p>
 
 <h2>Overview 👀</h2>
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40px" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40px" width="40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original-wordmark.svg" height="40px" width="40px" />
 </div>
 
 
